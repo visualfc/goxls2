@@ -2,7 +2,7 @@ module github.com/visualfc/goxls2
 
 go 1.18
 
-require golang.org/x/tools/gopls v0.14.1
+require golang.org/x/tools/gopls v0.13.2
 
 require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
